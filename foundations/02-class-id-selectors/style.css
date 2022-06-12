@@ -1,5 +1,5 @@
 .odd {
-    background-color: #ffb6c1;
+    background-color: rgb(255, 182, 193);
     font-family: Verdana, DejaVu Sans, sans-serif;
 }
 
@@ -13,7 +13,7 @@
 }
 
 #green-and-bold {
-    background-color: #90ee90;
+    background-color: hsl(120, 73%, 75%);
     font-size: 24px;
     font-weight: bold;
 }
