@@ -38,16 +38,7 @@ body {
   justify-content: center;
 }
 
-.column-2 {
-  display: flex;
-  flex-direction: column;
-  gap: 10px;
-}
-
-.header {
-  font-weight: bold;
-  font-size: 20px;
-}
+.column
 
 .close-button {
   background: #eee;
@@ -65,7 +56,6 @@ body {
 button {
   padding: 8px 16px;
   border-radius: 8px;
-  align-self: flex-start;
 }
 
 button.continue {

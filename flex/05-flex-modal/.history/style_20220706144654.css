@@ -41,12 +41,17 @@ body {
 .column-2 {
   display: flex;
   flex-direction: column;
+  flex-wrap: wrap;
   gap: 10px;
 }
 
 .header {
   font-weight: bold;
   font-size: 20px;
+}
+
+.text {
+  
 }
 
 .close-button {
